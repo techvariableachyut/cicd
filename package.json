@@ -1,0 +1,20 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "description": "ci cd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techvariableachyut/cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techvariableachyut/cicd/issues"
+  },
+  "homepage": "https://github.com/techvariableachyut/cicd#readme"
+}
